@@ -27,15 +27,6 @@ Welcome to Spotify, a simple web application where you can enjoy your favorite m
 **Disclaimer:**
 This project is created for educational purposes and is not intended for commercial use. All music and images used are placeholders and should not be redistributed or used for commercial purposes.
 
-**Author:**
-DHRUV SHERE
-
-**Contact:**
-sheredhruv@gmail.com
-
-**License:**
-This project is licensed under the [licence](LICENSE).
-
 **Contributing:**
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
